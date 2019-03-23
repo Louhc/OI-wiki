@@ -25,7 +25,7 @@ $$1\equiv a^{kt}\equiv a^{x(p-1)+\gcd(t,p-1)}\equiv a^{\gcd(t,p-1)}\pmod{p}$$
 
 又有 $t<p-1$，故 $\gcd(t,p-1)\leqslant t<p-1$。
 
-又 $\gcd(t,p-1)\mid(p-1)$，故 $\gcd(t,p-1)$ 必至少整除 $a^{\frac{p-1}{d_{1}}},a^{\frac{p-1}{d_{2}}},\ldots,a^{\frac{p-1}{d_{m}}}$ 中的至少一个，设 $\gcd(t,p-1)\mid a^{\frac{p-1}{d_{i}}$，则 $a^{\frac{p-1}{d_{i}}}\equiv a^{\gcd(t,p-1)}\equiv 1\pmod{p}$。
+又 $\gcd(t,p-1)\mid(p-1)$，故 $\gcd(t,p-1)$ 必至少整除 $a^{\frac{p-1}{d_{1}}},a^{\frac{p-1}{d_{2}}},\ldots,a^{\frac{p-1}{d_{m}}}$ 中的至少一个，设 $\gcd(t,p-1)\mid a^{\frac{p-1}{d_{i}}}$，则 $a^{\frac{p-1}{d_{i}}}\equiv a^{\gcd(t,p-1)}\equiv 1\pmod{p}$。
 
 故假设不成立。
 
